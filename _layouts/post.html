@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"><b>{{ page.title }}</b></h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <hr>
+  <div class="social-buttons">
+    <a class="btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
+    <a class="btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a class="btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a class="btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a class="btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+  </div>
+  <hr>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {% include ad_end.html %}
+
+  <br>
+  <hr>
+  <div class="social-buttons">
+    <a class="btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
+    <a class="btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a class="btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a class="btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a class="btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+  </div>
+  <hr>
+</div>
