@@ -205,6 +205,25 @@ pre {
 
 // Patrick's Styles
 
+
+// Skyscraper 
+
+.main-content {
+  overflow: hidden;
+}
+
+.skyscraper {
+  margin-left: 30px;
+  width: 320px;
+  float: right;
+  border-top: 3px solid #0159d5;
+}
+
+.adsbygoogle {
+  background-color: #eee;
+
+}
+
 .post-content {
   margin-top: 25px;
 }
@@ -212,6 +231,19 @@ pre {
 hr {
   opacity: .4;
 
+}
+
+a.post-link {
+  font-weight: bold;
+  color: #013989;
+}
+
+a.post-link:hover {
+  color: #013989;
+}
+
+.page-heading {
+  font-weight: bold;
 }
 
 .social-buttons {
@@ -268,4 +300,17 @@ a.color-linkedin {
   overflow: hidden;
   height: 20px;
   margin-bottom: 8px;
+}
+
+
+._li {
+  background-color: #fdfdfd;
+}
+
+
+.watermark::after {
+  content: "Hello: " !important;
+  font-size: 30px;
+  color: blue;
+  background-color: pink;
 }

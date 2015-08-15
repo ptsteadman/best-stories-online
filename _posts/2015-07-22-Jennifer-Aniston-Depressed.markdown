@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Comfort Eating?  Iggy Azalea Spends an Entire WEEK in KFC After Being Dumped by Fiancé"
+title:  "SHOCKING: Jennifer Aniston Reveals Her Depression at Beach Press
+Conference"
 date:   2015-07-17 00:29:38
 category: culture
 tags: pathetic
-image: iggy6.png
+image: aniston1.jpg
 ---
 - __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort
   food__

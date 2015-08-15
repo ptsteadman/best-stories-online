@@ -9,7 +9,21 @@
 
     <div class="page-content">
       <div class="wrapper">
+	<div class="skyscraper">
+	  <h2>Popular In Your Area</h2>
+	  <ul>
+	  {% for post in site.posts %}
+	    <li>
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	    </li>
+	  {% endfor %}
+
+	  </ul>
+	  {% include ad_skyscraper.html %}
+	</div>
+        <div class="main-content">
         {{ content }}
+	</div>
       </div>
     </div>
 
