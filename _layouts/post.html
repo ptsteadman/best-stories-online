@@ -10,11 +10,11 @@ layout: default
 
   <hr>
   <div class="social-buttons">
-    <a class="btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
-    <a class="btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
-    <a class="btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
-    <a class="btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
-    <a class="btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
+    <a class="btn btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a class="btn btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
   </div>
   <hr>
 
@@ -26,13 +26,26 @@ layout: default
   <br>
   <hr>
   <div class="social-buttons">
-    <a class="btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
-    <a class="btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
-    <a class="btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
-    <a class="btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
-    <a class="btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
+    <a class="btn btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a class="btn btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
   </div>
   <hr>
+  <div class="more">
+    <p><strong>More {{ page.category | capitalize }} News:</strong></p>
+    <ul>
+    {% assign i = 0 %}
+    {% for post in site.categories[page.category] limit:4 %}
+      {% if post.title != page.title and i < 3  %}
+      <li><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      {% assign i = i + 1 %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
   {% include kaboodle.html %}
+
   <div class="fb-comments" data-width="100%" data-numposts="10"></div>
 </div>

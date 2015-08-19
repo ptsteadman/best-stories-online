@@ -11,15 +11,23 @@
       <div class="wrapper">
 	<div class="skyscraper">
 	  <h2>Popular In Your Area</h2>
-	  <ul>
-	  {% for post in site.posts %}
-	    <li>
-		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	    </li>
-	  {% endfor %}
-
-	  </ul>
+	  <div class="sky-random-posts">
+	  </div>
 	  {% include ad_skyscraper.html %}
+	  <h2>Get Stories Every Day</h2>
+	  {% include follow_links.html %}
+	  {% if page.category %}
+	   <h2>The Best {{ page.category | capitalize }} News:</h2>
+	    <ul>
+	    {% assign i = 0 %}
+	    {% for post in site.categories[page.category] limit:4 %}
+	      {% if post.title != page.title and i < 3  %}
+	      <li><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+	      {% assign i = i + 1 %}
+	      {% endif %}
+	    {% endfor %}
+	    </ul>
+	  {% endif %}
 	</div>
         <div class="main-content">
         {{ content }}

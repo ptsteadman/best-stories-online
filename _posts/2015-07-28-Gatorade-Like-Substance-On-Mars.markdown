@@ -2,8 +2,8 @@
 layout: post
 title:  "NASA's Opportunity Rover Discovers 'Gatorade' On Mars"
 date:   2015-07-17 00:29:38
-category: culture
-tags: pathetic
+category: science
+tags: [hot,weird,breaking]
 image: marsgatorade1.jpg
 ---
 - __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort

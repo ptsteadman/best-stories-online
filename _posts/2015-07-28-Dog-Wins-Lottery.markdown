@@ -2,8 +2,8 @@
 layout: post
 title:  "Florida Dog Wins Cash3 Lottery Due to Strange Fluke"
 date:   2015-07-17 00:29:38
-category: culture
-tags: pathetic
+category: local
+tags: [weird]
 image: doglottery1.png
 ---
 - __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort

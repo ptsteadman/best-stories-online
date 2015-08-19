@@ -3,8 +3,10 @@ layout: default
 ---
 
 <div class="home">
+  <h2>BREAKING</h2>
   <ul class="post-list">
     {% for post in site.posts %}
+      
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -12,7 +14,6 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 	  <img class="watermark" src="{{site.url }}/assets/{{ post.image }}">
-	  <p>{{ post.text }}</p>
       </li>
     {% endfor %}
   </ul>

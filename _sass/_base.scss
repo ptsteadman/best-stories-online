@@ -214,13 +214,14 @@ pre {
 
 .skyscraper {
   margin-left: 30px;
-  width: 320px;
+  width: 300px;
+  padding: 0px 10px;
   float: right;
   border-top: 3px solid #0159d5;
 }
 
 .adsbygoogle {
-  background-color: #eee;
+  background-color: #f0f0f0;
 
 }
 
@@ -252,47 +253,99 @@ a.post-link:hover {
   margin: 5px 0px;
 }
 
-a.btn-share {
-  padding: 5px 12px;
-  margin: 0px 2px;
-  background-color: grey;
-  color: white;
-  display: block;
-  float: left;
+a.btn {
   text-decoration: none;
-  font-weight: bold;
+  display: block;
   cursor: pointer;
-  opacity: .9;
+  border-bottom: 3px solid grey;
+  border-top: 3px solid grey;
+  background-color: grey;
+}
+
+a.btn-share {
+  padding: 3px 12px;
+  margin: 0px 2px;
+  color: white;
+  float: left;
+  font-weight: bold;
   border-radius: 2px;
 }
 
-a.btn-share:hover {
-  opacity: 1;
+a.btn-follow {
+  width: 49%;
+  float: left;
+  border-radius: 2px;
+  padding: 10px 12px;
+  box-sizing: border-box;
+  margin-bottom: 2%;
+  cursor: pointer;
 }
 
+a.btn-follow:nth-child(odd) {
+  margin-right: 2%;
+}
+
+a.btn-follow span {
+  position: relative;
+  font-weight: bold;
+  top: -5px;
+}
+
+
+/* Social Colors */
+
+
+$hoverColor : #888;
 
 a.color-facebook {
   background-color: #3b5998;
   color: white;
+  border-bottom: 3px solid #3b5998;
+  border-top: 3px solid #3b5998;
+}
+
+a.color-facebook:hover {
+  color: white;
+  border-bottom: 3px solid $hoverColor;
 }
 
 a.color-twitter {
   background-color: #55acee;
   color: white;
+  border-bottom: 3px solid #55acee;
+  border-top: 3px solid #55acee;
 }
 
+a.color-twitter:hover {
+  color: white;
+  border-bottom: 3px solid $hoverColor;
+}
 
 a.color-pinterest {
   background-color: #a01a1f;
   color: white;
+  border-bottom: 3px solid #a01a1f;
+  border-top: 3px solid #a01a1f;
 }
 
+a.color-pinterest:hover {
+  color: white;
+  border-bottom: 3px solid #888 ;
+}
 
 a.color-linkedin {
   background-color: #0077b5;
   color: white;
+  border-bottom: 3px solid #0077b5;
+  border-top: 3px solid #0077b5;
 }
 
+a.color-linkedin:hover {
+  color: white;
+  border-bottom: 3px solid #888 ;
+}
+
+/* Ad / Third Party Styles */
 .sponsored {
   float: right;
   color: #999;
@@ -308,9 +361,10 @@ a.color-linkedin {
 }
 
 
-.watermark::after {
-  content: "Hello: " !important;
-  font-size: 30px;
-  color: blue;
-  background-color: pink;
+.more {
+  margin: 8px 0px;
+
+}
+.more p {
+  margin: 6px 0px;
 }
