@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Florida Dog Wins Cash3 Lottery Due to Strange Fluke"
+shortTitle: "Rich Dog"
 date:   2015-07-17 00:29:38
 category: local
 tags: [weird]

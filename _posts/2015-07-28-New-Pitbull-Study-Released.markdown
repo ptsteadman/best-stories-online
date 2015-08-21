@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Opinion: These Pitbulls Are People Too"
+shortTitle: "Pitbulls"
 date:   2015-07-17 00:29:38
 category: science
 tags: [hot]

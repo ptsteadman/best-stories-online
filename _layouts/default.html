@@ -6,6 +6,7 @@
   <body>
     {% include social.html %}
     {% include header.html %}
+    {% include ticker.html %}
 
     <div class="page-content">
       <div class="wrapper">
@@ -16,6 +17,7 @@
 	  {% include ad_skyscraper.html %}
 	  <h2>Get Stories Every Day</h2>
 	  {% include follow_links.html %}
+	  {% include weather.html %}
 	  {% if page.category %}
 	   <h2>The Best {{ page.category | capitalize }} News:</h2>
 	    <ul>
@@ -27,7 +29,17 @@
 	      {% endif %}
 	    {% endfor %}
 	    </ul>
+
+	  {% else %}
+	   <h2>The Best Celebrity News:</h2>
+	    <ul>
+	    {% for post in site.categories["celebrity"] limit:3 %}
+	      <li><a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	    </ul>
 	  {% endif %}
+
+	  {% include kaboodle.html %}
 	</div>
         <div class="main-content">
         {{ content }}

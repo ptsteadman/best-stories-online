@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Comfort Eating?  Iggy Azalea Spends an Entire WEEK in KFC After Being Dumped by Fiancé"
+shortTitle: "Iggy Azelea"
 date:   2015-07-17 00:29:38
 category: celebrity
 tags: [wrong, hot]

@@ -19,11 +19,7 @@
           <a class="page-link" href="{{ '/tagged/breaking/' | prepend: site.url }}">BREAKING</a>
           <a class="page-link" href="{{ '/tagged/weird/' | prepend: site.url }}">WEIRD</a>
           <a class="page-link" href="{{ '/tagged/wrong/' | prepend: site.url }}">WRONG</a>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          <a class="page-link hidden-small" href="{{ '/about/' | prepend: site.url }}">ABOUT</a>
       </div>
     </nav>
 

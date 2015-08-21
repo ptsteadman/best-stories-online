@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "LiveWRONG: Disgraced Cyclist Lance Armstrong Curses Out Teens on Xbox Live"
+shortTitle: "Lance Armstrong"
 date:   2015-07-27 00:29:38
 category: celebrity
 tags: [wrong]

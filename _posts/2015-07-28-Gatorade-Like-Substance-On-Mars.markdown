@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "NASA's Opportunity Rover Discovers 'Gatorade' On Mars"
+shortTitle: "Mars Gatorade"
 date:   2015-07-17 00:29:38
 category: science
 tags: [hot,weird,breaking]

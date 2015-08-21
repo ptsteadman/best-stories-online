@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Scott Walker Reveals That He Thinks The Simpsons Is Still Good"
-shortTitle: "Scott Walker"
-date:   2015-07-17 00:29:38
+title:  "Daniel Radcliffe Has Given Another Powerful Speech About Gender Equality"
+shortTitle: "Daniel Radcliffe"
+date:   2015-08-17 00:29:38
 category: celebrity
-tags: [wrong]
-image: walker1.jpg
+tags: [hot]
+image: radcliffe1.jpg
+excerpt: "This morning actor Daniel Radcliffe gave a speech at the World Economic Forum in Davos.
+The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative."
 ---
+
 - __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort
   food__
 - __She was feeling depressed following her break-up and 'needed time to

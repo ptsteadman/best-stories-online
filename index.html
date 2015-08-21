@@ -4,16 +4,15 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-	  <img class="watermark" src="{{site.url }}/assets/{{ post.image }}">
-	  <p>{{ post.text }}</p>
-      </li>
+    {% for post in site.posts limit:8 %}
+      {% if forloop.index == 2 or forloop.index == 5 %}
+      <div class="sharing-row">
+      {% endif %}
+      {% include post_li.html %}
+      {% if forloop.index == 3 or forloop.index == 6 %}
+      </div>
+      <br>
+      {% endif %}
     {% endfor %}
   </ul>
 

@@ -1,14 +1,48 @@
 /**
- * Site header
+ * Site header and ticker
  */
 .site-header {
     border-top: 5px solid #0159d5;
-    border-bottom: 1px solid lighten($brand-color, 40%);
+    border-bottom: 2px solid lighten($brand-color, 0%);
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
+
+.ticker {
+    border-bottom: 1px dotted lighten($brand-color, 30%);
+    height: 25px;
+    overflow: hidden;
+}
+
+.ticker .wrapper {
+  overflow: hidden;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.ticker-stories{
+  overflow: auto;
+  margin-right: -250px;
+}
+
+a.tickerItem {
+  color: #424242;
+  float: left;
+  height: 25px;
+  padding: 0px 16px;
+  margin: 1px 0px;
+  cursor: pointer;
+  font-style: italic;
+  vertical-align: center;
+}
+
+
+.tickerItem:hover {
+  text-decoration: underline;
+}
+
 
 .site-title {
     font-size: 26px;

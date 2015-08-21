@@ -6,15 +6,7 @@ layout: default
   <h2>BREAKING</h2>
   <ul class="post-list">
     {% for post in site.posts %}
-      
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-	  <img class="watermark" src="{{site.url }}/assets/{{ post.image }}">
-      </li>
+      {% include post_li.html %}
     {% endfor %}
   </ul>
 
