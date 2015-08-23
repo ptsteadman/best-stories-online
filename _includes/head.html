@@ -21,12 +21,19 @@
   <meta name="theme-color" content="#ffffff">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  {% if page.title %}
+  <meta property="og:url"                content="{{ page.url | prepend: site.url  }} " />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="{{ page.title }}" />
+  <meta property="og:description"        content="{{ page.excerpt }}" />
+  <meta property="og:image"              content="{{site.url }}/assets/{{ page.image }}" />
+  {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/fonts.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
   <script src="{{ "/assets/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/js/app.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/js/jquery.simpleWeather.js" | prepend: site.baseurl }}"></script>

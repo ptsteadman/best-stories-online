@@ -10,11 +10,12 @@ layout: default
 
   <hr>
   <div class="social-buttons">
-    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
-    <a class="btn btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
-    <a class="btn btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
-    <a class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
-    <a class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> <span class="hidden-small"> &nbsp; SHARE</span></a>
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | truncate:80 | cgi_escape }}&url={{ page.url | prepend: site.url | cgi_escape }}&via=beststorieson" class="btn btn-share share-twitter
+    color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a href="http://pinterest.com/pin/create/link/?url={{ page.url | prepend: site.url | cgi_escape }}&media={{ page.image | prepend: '/assets/' | prepend: site.url | cgi_escape }}&description={{ page.title | cgi_escape }}" target="_blank" class="btn btn-share share-pinterest color-pinterest pin-it-button"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | cgi_escape }}&title={{ page.title | cgi_escape }}&summary={{ page.excerpt | strip_html | cgi_escape }}&source={{ 'Best Stories Online' | cgi_escape }}" class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a href="{{ '#disqus_thread' | prepend: page.url }}" class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i></a>
   </div>
   <hr>
 
@@ -26,11 +27,12 @@ layout: default
   <br>
   <hr>
   <div class="social-buttons">
-    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> &nbsp; SHARE</a>
-    <a class="btn btn-share share-twitter color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
-    <a class="btn btn-share share-pinterest color-pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
-    <a class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
-    <a class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i> &nbsp; 12</a>
+    <a class="btn btn-share share-facebook color-facebook"><i class="fa fa-facebook-square fa-lg"></i> <span class="hidden-small"> &nbsp; SHARE</span></a>
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | truncate:80 }}&url={{ page.url | prepend: site.url | cgi_escape }}&via=beststorieson" class="btn btn-share share-twitter
+    color-twitter"><i class="fa fa-twitter fa-lg"></i></a>
+    <a href="http://pinterest.com/pin/create/link/?url={{ page.url | prepend: site.url | cgi_escape }}&media={{ page.image | prepend: '/assets/' | prepend: site.url | cgi_escape }}&description={{ page.title | cgi_escape }}" target="_blank" class="btn btn-share share-pinterest color-pinterest pin-it-button"><i class="fa fa-pinterest fa-lg"></i></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | cgi_escape }}&title={{ page.title | cgi_escape }}&summary={{ page.excerpt | strip_html | cgi_escape }}&source={{ 'Best Stories Online' | cgi_escape }}" class="btn btn-share share-linkedin color-linkedin"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    <a href="{{ '#disqus_thread' | prepend: page.url }}" class="btn btn-share btn-comments"><i class="fa fa-comments fa-lg"></i></a>
   </div>
   <hr>
   <div class="more">
@@ -47,5 +49,20 @@ layout: default
   </div>
   {% include kaboodle.html %}
 
-  <div class="fb-comments" data-width="100%" data-numposts="10"></div>
+  <div class="comments-wrapper">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+	/* * * CONFIGURATION VARIABLES * * */
+	var disqus_shortname = 'beststoriesonline';
+	
+	/* * * DON'T EDIT BELOW THIS LINE * * */
+	(function() {
+	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+  </div>
 </div>

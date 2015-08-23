@@ -270,11 +270,10 @@ a.post-link:hover {
 }
 
 .social-media-list i {
-  color: #333;
+  color: $grey-color;
 }
 
 .social-media-list .username {
-  color: #666;
   text-decoration: none !important;
 }
 
@@ -495,3 +494,7 @@ a.color-linkedin:hover {
   margin-left: 40px;
   padding: 0;
 }
+
+/* fb comments */
+
+

@@ -78,26 +78,19 @@ a.tickerItem {
     }
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
+	float: right;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
 
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
-            height: 26px;
+            width: 35px;
             line-height: 0;
-            padding-top: 10px;
             text-align: center;
 
             > svg {
-                width: 18px;
-                height: 15px;
+                width: 22px;
+                height: 54px;
 
                 path {
                     fill: $grey-color-dark;
@@ -108,20 +101,52 @@ a.tickerItem {
         .trigger {
             clear: both;
             display: none;
+	  
         }
 
-        &:hover .trigger {
+	&:hover {
+	    border-bottom: none;
+
+	}	
+
+        &:hover .trigger, .trigger:hover {
+	    position: absolute;
             display: block;
-            padding-bottom: 5px;
+	    width: 100%;
+ 	    position: absolute;
+	    right: 0px;
+	    top: 59px;
+	    background-color: rgba(253, 253, 253, .95);
+            text-align: right;
+	    border-bottom: 1px dotted $brand-color;
+	    z-index: 1000;
+	    line-height: 1;
+	    overflow-y: hidden;
+	    overflow-x: scroll;
+
+	    max-height: 26px;
         }
+  
+	.trigger img {
+            float: left;
+	    margin-left: 15px;
+ 	    width: auto;
+	    margin-top: 5px;
+
+	}
 
         .page-link {
-            display: block;
-            padding: 5px 10px;
+            padding: 0px 0px;
+	    margin: 1px 15px 1px 0px !important;
+	    height: 25px;
         }
+     
+        .page-link:last-child {
+	    margin-right: 15px !important;
+
+	}
     }
 }
-
 
 
 /**

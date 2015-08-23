@@ -21,12 +21,20 @@ $(document).ready(function(){
   
   function SocialButtons(){
 
-    this.init = function(selector){
+    this.shareFB = function(selector){
       $(selector).click(function(){
 	FB.ui({
 	  method: 'share',
-	  href: window.location.href
+	  href: window.location.href,
 	}, function(response){});
+      });
+    }
+
+    this.popUp = function(selector){
+      $(selector).click(function(e){
+	console.log("click");
+	e.preventDefault();
+	window.open($(this).attr("href"),"popupWindow","width=520,height=570");
       });
     }
   }
@@ -48,6 +56,7 @@ $(document).ready(function(){
       }
       $(selector).append(postList);
     }
+
 
 
 
@@ -95,7 +104,9 @@ $(document).ready(function(){
   /* Make stuff happen */
 
   var socialButtons = new SocialButtons();
-  socialButtons.init(".share-facebook");
+  socialButtons.shareFB(".share-facebook");
+  socialButtons.popUp(".share-pinterest");
+  socialButtons.popUp(".share-linkedin");
 
   $.getJSON(root + "/search.json", function(data){
     var skyPosts = new RandomPostList(data, 3);
