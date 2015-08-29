@@ -1,92 +1,50 @@
 ---
 layout: post
-title:  "Florida Dog Wins Cash3 Lottery Due to Strange Fluke"
+title:  "Being a Dog Keeps Getting Better! Pup Wins Lottery… You’ll Never Guess How"
 shortTitle: "Rich Dog"
-date:   2015-07-17 00:29:38
+date:   2015-08-26 00:29:38
 category: local
 tags: [weird]
-image: doglottery1.png
+image: doglottery1.jpg
 ---
-- __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort
-  food__
-- __She was feeling depressed following her break-up and 'needed time to
-  think'__
-- __Azalea phoned insick to work to stay at KFC eating chicken wings and fries__
-- __It was only a week later she decided she was 'sick of the taste of chicken'__
+- __Adult son discovers his deceased mother’s winning lottery ticket__
+- __Multi-million winnings can’t be redeemed--entire inheritance goes to her Pomeranian!__
+- __Bitter court battle expected to follow between man and dog__
 
-*By [Rosemary P. Wilcox](http://google.com)*
+*By [Daniel Denewski](#)*
 
-Amethyst Amelia Kelly, better known by her stage name Iggy Azalea, spent an
-entire week in a KFC eating fried chicken wings after being dumped by her
-fiancé, L.A. Lakers small forward Nick Young, because she ‘needed time to
-think’.
+Talk about a lucky dog! This Florida pooch has been awarded the sum of a $6.2 million lottery ticket thanks to his recently-deceased owner’s unusual wishes.
 
-The lovesick rapper, 25, from Sydney, Australia, went to the fast food chain in
-search of some comfort food to get over the break-up.
+Sandra Fleming, (1943-2015), purchased the winning ticket just days before her passing. Her son, Tallahassee resident Gilbert Fleming, age 52, discovered the ticket while making funeral arrangements at his mother’s home. He was overjoyed at first to learn the ticket was worth millions, only to be disappointed by what was to come. 
 
-But seven days later Azalea was still ordering chicken wings with a side of
-extra large fries at the KFC near a train station by her home.
+“She left it all to the (expletive) dog,” Gilbert Fleming told reporters, referring to his mother’s 13-year old Pomeranian, Beatrix.
 
-![Ms. Kelly and a piece of KFC chicken.]({{site.url }}/assets/iggy4.jpg)
+![Some dogs have it good!]({{site.url }}/watermarked/doglottery1.jpg)
 
-She even phoned in sick to work to stay at the restaurant. 
+In fact, Sandra Fleming left the entirety of her once-modest inheritance to her beloved canine companion.
 
-Azalea said: ‘I was walking around feeling miserable and decided to stop off at
-the KFC at the train station.
+“This kind of thing isn’t unheard of,” David Hilborn, attorney for Ms. Fleming, told reporters at a small press conference earlier this afternoon. “Sandra Fleming’s dying wish was to ensure that her beloved pet was afforded every available resource so that it could be satisfied for the rest of its days.”
 
-'I hadn’t planned on staying there long, I just wanted some chicken wings.
+“I do not see how her recent winnings affect her dying wishes whatsoever,” he added.
+
+In accordance with the terms of Sandra Fleming’s will, attorney Hilborn will serve as administrator of Beatrix’s estate.
+
+![Pictured: Sandra Fleming shows off a portrait of her beloved Pomeranian and heiress to her multi-million dollar fortune, Beatrix.]({{site.url }}/watermarked/doglottery2.jpg)
+
+“Family members may feel slighted in cases like these, children especially,” Hilborn acknowledged. “They often believe they’ve been neglected by their parents, who would prefer to take better care of an animal than their own child.” 
+
+Hilborn took issue with those who would suspect such a slight had taken place in this situation. 
+
+“There is no neglect to speak of in this case,” he asserted, becoming noticeably testy. “Beatrix is a rare breed of Pomeranian that requires extensive care. When you factor in grooming costs, gourmet kibble, you know, the list goes on and on… these things cost money and are necessary expenditures in order to maintain a lifestyle of sufficient luxury. That’s what Sandra Fleming wanted. She couldn’t have been more clear about it.”
+
+Sources close to the family have suggested that Sandra Fleming’s decision to make no mention of her son in the document may indicate a certain clarity as well. 
 
 {% include ad_block.html %}
 
-'But once I got in there and started eating I decided I needed time to think.
+Gilbert Fleming has been said to be taking the news in stride and maintains he has no plans to seek legal representation himself.
 
-'I didn’t want to go back to my apartment because it was full of memories of
-him. So I stayed.'
+“Well, I do know one thing's for certain. She always did spoil that dog rotten,” Mr. Fleming told reporters earlier in a lighter moment.
 
-After a few days employees at the chicken shop began to worry about Azalea.
+“Some dogs have all the luck,” he continued to say.
 
-![Ms. Kelly was recently dumped.]({{site.url }}/assets/iggy5.jpg)
-
-Worker Rodney Benson, 22, said: 'We work in shifts here and the restaurant is
-open 24 hours a day, so we get a lot of people coming through.
-
-'At first no one really noticed her.
-
-'But after a few days I began thinking she looked really familiar.
-
-'Then I realised we had been serving her for the past three days and that she
-hadn’t actually left.
-
-'When we asked her if she was ok, she said she was and just needed time to
-think.
-
-{% include ad_block_2.html %}
-
-'And then asked for another box of chicken wings with extra large fries.’
-
-He said the Azalea was doing no harm eating her way through boxes of chicken so
-they let her stay.
-
-He added: 'She was after all a paying customer, even if a bit of an odd one.'
-
-Azalea decided she had had enough when local media turned up after a week at
-the KFC. And, unsurprisingly, she was starting to get sick of the taste of
-chicken. 
-
-'I decided the best thing to do would be to leave the city and go back to my
-parents.
-
-
-![Ms. Kelly on the train back to her parents.]({{site.url }}/assets/iggy6.png)
-
-'I had already told work I was off sick, so phoned them and said I was leaving.
-
-'And I was getting sick of the taste of chicken so there was no point in
-staying there anymore.'
-
-She then boarded the next train to her parents' home in Vaucluse, in the
-Sydney’s affluent Eastern Suburbs and left.
-
-Waitress Donna Jimenez said: 'I guess we kind of miss her. It certainly made
-work more interesting.'
-
+The average life-expectancy of a Pomeranian is between 12-16 years. Beatrix’s four puppies stand to inherit her fortune. 

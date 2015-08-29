@@ -5,6 +5,11 @@ var root = "{{ site.url }}";
 
 $(document).ready(function(){
   
+  $(".post-content img").captionjs({
+    'is_responsive': true,
+    'inherit_styles': true
+  });
+ 
   /* Helper Functions */
 
   function shuffleArray(a){

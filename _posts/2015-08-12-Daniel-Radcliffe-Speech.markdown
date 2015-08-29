@@ -10,86 +10,42 @@ excerpt: "This morning actor Daniel Radcliffe gave a speech at the World Economi
 The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative."
 ---
 
-- __Lovesick Iggy Azalea, 25, went to the fast food chain in search of comfort
-  food__
-- __She was feeling depressed following her break-up and 'needed time to
-  think'__
-- __Azalea phoned insick to work to stay at KFC eating chicken wings and fries__
-- __It was only a week later she decided she was 'sick of the taste of chicken'__
+- __He told delegates at Davos: “There is a greater understanding than ever that women need to be equal participants”__
+- __The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative__
 
 *By [Rosemary P. Wilcox](http://google.com)*
 
-Amethyst Amelia Kelly, better known by her stage name Iggy Azalea, spent an
-entire week in a KFC eating fried chicken wings after being dumped by her
-fiancé, L.A. Lakers small forward Nick Young, because she ‘needed time to
-think’.
+This morning actor Daniel Radcliffe gave a speech at the World Economic Forum in Davos.
 
-The lovesick rapper, 25, from Sydney, Australia, went to the fast food chain in
-search of some comfort food to get over the break-up.
+The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative.
 
-But seven days later Azalea was still ordering chicken wings with a side of
-extra large fries at the KFC near a train station by her home.
+The UN describes it as a pilot initiative “to galvanize momentum in advancing gender equality and women’s empowerment”.
 
-![Ms. Kelly and a piece of KFC chicken.]({{site.url }}/assets/iggy4.jpg)
+Radcliffe said: “There is a greater understanding than ever that women need to be equal participants in our homes, in our societies, in our governments, and in our workplaces.” 
 
-She even phoned in sick to work to stay at the restaurant. 
+![Pictured: Actor Daniel Radcliffe in a promotional photo.]({{site.url }}/watermarked/radcliffe2.jpg)
 
-Azalea said: ‘I was walking around feeling miserable and decided to stop off at
-the KFC at the train station.
+“And they know that the world is being held back in every way because they are not,” he added.
 
-'I hadn’t planned on staying there long, I just wanted some chicken wings.
+He told delegates he wanted to hear from “the human beings” behind organizations that had taken steps to improve gender equality.
 
-{% include ad_block.html %}
+![Pictured: A young Radcliffe on the set of "Harry Potter and the Prisoner of Azkaban".]({{site.url }}/watermarked/radcliffe3.jpg)
 
-'But once I got in there and started eating I decided I needed time to think.
-
-'I didn’t want to go back to my apartment because it was full of memories of
-him. So I stayed.'
-
-After a few days employees at the chicken shop began to worry about Azalea.
-
-![Ms. Kelly was recently dumped.]({{site.url }}/assets/iggy5.jpg)
-
-Worker Rodney Benson, 22, said: 'We work in shifts here and the restaurant is
-open 24 hours a day, so we get a lot of people coming through.
-
-'At first no one really noticed her.
-
-'But after a few days I began thinking she looked really familiar.
-
-'Then I realised we had been serving her for the past three days and that she
-hadn’t actually left.
-
-'When we asked her if she was ok, she said she was and just needed time to
-think.
-
-{% include ad_block_2.html %}
-
-'And then asked for another box of chicken wings with extra large fries.’
-
-He said the Azalea was doing no harm eating her way through boxes of chicken so
-they let her stay.
-
-He added: 'She was after all a paying customer, even if a bit of an odd one.'
-
-Azalea decided she had had enough when local media turned up after a week at
-the KFC. And, unsurprisingly, she was starting to get sick of the taste of
-chicken. 
-
-'I decided the best thing to do would be to leave the city and go back to my
-parents.
+__He said:__
 
 
-![Ms. Kelly on the train back to her parents.]({{site.url }}/assets/iggy6.png)
+> I spoke about some of my story in September – what are your stories?
+> Girls: Who have been your mentors, parents, did you make sure you treated your children equally? If so, how have you done it? Husbands: Have you been supporting your female partner privately so that she can fulfill her dreams too? Young men: Have you spoke up in a conversation when a woman was casually degraded or dismissed? …
+> Businessmen: Have you mentored, supported or engaged women in leadership positions? Writers: Have you challenged the language and imagery used to portray women in the media? CEOs: Have you implemented the women’s empowerment principles in your own company?
 
-'I had already told work I was off sick, so phoned them and said I was leaving.
 
-'And I was getting sick of the taste of chicken so there was no point in
-staying there anymore.'
+![Pictured: Actor Ralph Fiennes.]({{site.url }}/watermarked/radcliffe4.jpg)
 
-She then boarded the next train to her parents' home in Vaucluse, in the
-Sydney’s affluent Eastern Suburbs and left.
 
-Waitress Donna Jimenez said: 'I guess we kind of miss her. It certainly made
-work more interesting.'
+__He said:__
+
+
+> Everything from marathons being run, merchandise being created, 15-year-old boys writing to national newspapers deploring female discrimination, young girls collecting hundreds of signatures – it’s all happened in the last four months. I couldn’t have dreamed it, but it’s happened. …
+> I’ve had my breath taken away when a fan told me that since watching my speech she has stopped herself being beaten up by her father. I’ve been stunned by the amount of men in my life that have contacted me since my speech to tell me to keep going, and that they want to make sure that their daughters will still be alive to see a world where women have power and equality, economically and politically.
+
 

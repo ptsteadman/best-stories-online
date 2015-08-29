@@ -45,8 +45,21 @@ img {
     vertical-align: middle;
 }
 
+.captionjs {
+  margin: 24px 0px !important;
+  color: $grey-color-dark;
+}
 
+.post-content img {
+  width: auto !important;
 
+}
+
+.captionjs img {
+  max-width: 100%;
+  width: auto !important;
+  margin: 0 auto !important;
+}
 /**
  * Figures
  */
