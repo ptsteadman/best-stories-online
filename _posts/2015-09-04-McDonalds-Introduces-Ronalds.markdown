@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "McDonald's to launch new casual dining chain "Ronald's" in 6 cities"
+title:  "McDonald's to launch new casual dining chain 'Ronald's' in 6 cities"
 shortTitle: "Ronald's"
 date:   2015-09-04 00:32:38
 category: local
 tags: [hot]
 image: ronalds1.png
-excerpt: "We're lovin' it -- fast food giant sets to toe into new market with casual dining concept "Ronald's""
+excerpt: "We're lovin' it -- fast food giant sets to toe into new market with casual dining concept 'Ronald's'"
 ---
 
 - __Oak Brook, Illinois based chain seeks new opportunities among more discerning diners in 6 locations, including Buffalo, New York__
