@@ -5,7 +5,7 @@ shortTitle: "Ronald's"
 date:   2015-09-04 00:32:38
 category: local
 tags: [hot]
-image: radcliffe1.jpg
+image: ronalds1.png
 excerpt: "We're lovin' it -- fast food giant sets to toe into new market with casual dining concept "Ronald's""
 ---
 
