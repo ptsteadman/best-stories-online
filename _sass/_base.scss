@@ -234,6 +234,10 @@ pre {
   box-sizing: border-box;
 }
 
+.captionjs figcaption {
+  margin-top: $spacing-unit/4;
+
+}
 
 // Skyscraper 
 
@@ -507,7 +511,4 @@ a.color-linkedin:hover {
   margin-left: 40px;
   padding: 0;
 }
-
-/* fb comments */
-
 

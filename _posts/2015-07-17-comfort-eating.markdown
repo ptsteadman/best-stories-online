@@ -11,10 +11,10 @@ image: iggy6.png
   food__
 - __She was feeling depressed following her break-up and 'needed time to
   think'__
-- __Azalea phoned insick to work to stay at KFC eating chicken wings and fries__
+- __Azalea phoned in sick to work to stay at KFC eating chicken wings and fries__
 - __It was only a week later she decided she was 'sick of the taste of chicken'__
 
-*By [Rosemary P. Wilcox](http://google.com)*
+*By [Rosemary P. Wilcox](#)*
 
 Amethyst Amelia Kelly, better known by her stage name Iggy Azalea, spent an
 entire week in a KFC eating fried chicken wings after being dumped by her
@@ -27,7 +27,7 @@ search of some comfort food to get over the break-up.
 But seven days later Azalea was still ordering chicken wings with a side of
 extra large fries at the KFC near a train station by her home.
 
-![Ms. Kelly and a piece of KFC chicken.]({{site.url }}/assets/iggy4.jpg)
+![Ms. Kelly and a piece of KFC chicken.]({{site.url }}/watermarked/iggy4.jpg)
 
 She even phoned in sick to work to stay at the restaurant. 
 
@@ -45,7 +45,7 @@ him. So I stayed.'
 
 After a few days employees at the chicken shop began to worry about Azalea.
 
-![Ms. Kelly was recently dumped.]({{site.url }}/assets/iggy5.jpg)
+![Ms. Kelly was recently dumped.]({{site.url }}/watermarked/iggy5.jpg)
 
 Worker Rodney Benson, 22, said: 'We work in shifts here and the restaurant is
 open 24 hours a day, so we get a lot of people coming through.
@@ -77,7 +77,7 @@ chicken. 
 parents.
 
 
-![Ms. Kelly on the train back to her parents.]({{site.url }}/assets/iggy6.png)
+![Ms. Kelly on the train back to her parents.]({{site.url }}/watermarked/iggy6.png)
 
 'I had already told work I was off sick, so phoned them and said I was leaving.
 

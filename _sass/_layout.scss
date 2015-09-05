@@ -47,8 +47,8 @@ a.tickerItem {
 .site-title {
     font-size: 26px;
     line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
+    margin-top: 0px;
+    letter-spacing: -2px;
     float: left;
     font-style: italic;
     font-weight: bold;
@@ -57,6 +57,13 @@ a.tickerItem {
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+
+@media (max-width: 600px){
+  .site-title {
+    font-size: 24px;
+  }
 }
 
 .site-nav {
@@ -75,6 +82,12 @@ a.tickerItem {
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+   @media (max-width: 700px){
+        &:not(:first-child) {
+            margin-left: 12px;
+        }
+    }
     }
 
     @include media-query($on-palm) {
@@ -90,11 +103,21 @@ a.tickerItem {
 
             > svg {
                 width: 22px;
-                height: 54px;
+                height: 22px;
+		margin-top: 10px;
+		padding: 6px 6px;
+                border: 1px solid #eee;
+                border-radius: 2px;
 
                 path {
                     fill: $grey-color-dark;
                 }
+		
+		&:hover {
+
+                border: 1px solid lightpink;
+
+		}
             }
         }
 
