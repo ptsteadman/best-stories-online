@@ -19,7 +19,7 @@ As the fast food pioneer's stock prices slope southward, McDonald's looks to inn
 
 ![Pictured: Breaded Poultry Morsels with Sriracha chimichurri.]({{site.url }}/watermarked/ronalds2.jpg)
 
-A previous majority stock holder in casusal dining leader Chipotle, McDonald's offerings at Ronald's follow the healthy and quality ingredient trends in the market.  Ronald's menu includes burgers made with humanely slaughtered sirloin cuts of beef as well as "Breaded Poultry Morsels" with Sriracha chimichurri sauce produced from free-range-raised chickens. Absent from the menu are selections eplicitly for children.  Easterbrook explains that "Ronald's will serve consumers seeking a convenient, yet classy dining option." 
+A previous majority stock holder in casusal dining leader Chipotle, McDonald's offerings at Ronald's follow the healthy and quality ingredient trends in the market.  Ronald's menu includes burgers made with humanely slaughtered sirloin cuts of beef as well as "Breaded Poultry Morsels" with Sriracha chimichurri sauce produced from free-range-raised chickens. Absent from the menu are selections explicitly for children.  Easterbrook explains that "Ronald's will serve consumers seeking a convenient, yet classy dining option." 
 
 
 
