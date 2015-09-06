@@ -18,6 +18,9 @@ excerpt: "We're lovin' it -- fast food giant sets to toe into new market with ca
 
 As the fast food pioneer's stock prices plummet, McDonald's looks to innovate in a new market by introducing a causal dining concept in six cities: Buffalo, New York; Santa Rosa, California; Boise, Idaho; Las Vegas, Nevada; Houston, Texas and New Haven, Connecticut.
 
+
+{% include ad_block.html %}
+
 With Ron's, McDonald's seeks to capture upwardly-mobile, health-conscious, childless older Millenials. Executives hope this move will raise the company's value on Wall Street while seizing upon the opportunities in casual dining. CEO Steve Easterbrook commented in a press conference, "I'm confident this move will increase our over-all value and reassert our presence for consumers who grew up with Happy Meals, yet now seek a more serious feel."
 
 
