@@ -5,14 +5,14 @@ Conference"
 shortTitle: "Jennifer Aniston"
 date:   2015-08-15 00:29:38
 category: celebrity
-tags: [hot,breaking]
+tags: [breaking]
 image: aniston1.jpg
 ---
 - __'Friends' sweetheart has been hiding inner pain__
 - __Newlywed Jennifer still 'has trouble getting out of bed'__
 - __She felt it was important to share her struggle for the benefit of young men and women__
 
-*By [Rosemary P. Wilcox](http://google.com)*
+*By [Rosemary P. Wilcox](https://www.facebook.com/rosemarypwilcox)*
 
 Just weeks after her secret marriage to actor Justin Theroux, 'Friends' star
 Jennifer Aniston has another suprise to reveal: she's depressed.

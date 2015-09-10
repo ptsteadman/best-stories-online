@@ -14,7 +14,7 @@ image: iggy6.png
 - __Azalea phoned in sick to work to stay at KFC eating chicken wings and fries__
 - __It was only a week later she decided she was 'sick of the taste of chicken'__
 
-*By [Rosemary P. Wilcox](#)*
+*By [Rosemary P. Wilcox](https://www.facebook.com/rosemarypwilcox)*
 
 Amethyst Amelia Kelly, better known by her stage name Iggy Azalea, spent an
 entire week in a KFC eating fried chicken wings after being dumped by her

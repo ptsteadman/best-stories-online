@@ -12,7 +12,7 @@ excerpt: "We're lovin' it -- fast food giant sets to toe into new market with ca
 - __Oak Brook, Illinois based chain seeks new opportunities among more discerning diners in 6 locations, including Buffalo, New York__
 - __Menu items include fries with truffle salt, burger boasting two 50/50 turkey and sirloin patties__
 
-*By [Rosemary P. Wilcox](http://google.com)*
+*By [Rosemary P. Wilcox](https://www.facebook.com/rosemarypwilcox)*
 
 ![Pictured: Architect's rendering of "Ron's" included in proposal to Boise Urban Revitalization Committee.]({{site.url }}/watermarked/ronalds1.png)
 

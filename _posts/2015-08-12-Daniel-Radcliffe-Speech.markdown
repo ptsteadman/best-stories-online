@@ -4,7 +4,7 @@ title:  "Daniel Radcliffe Has Given Another Powerful Speech About Gender Equalit
 shortTitle: "Daniel Radcliffe"
 date:   2015-08-17 00:29:38
 category: celebrity
-tags: [hot]
+tags: []
 image: radcliffe1.jpg
 excerpt: "This morning actor Daniel Radcliffe gave a speech at the World Economic Forum in Davos.
 The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative."
@@ -13,7 +13,7 @@ The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 
 - __He told delegates at Davos: “There is a greater understanding than ever that women need to be equal participants”__
 - __The UN Women Goodwill Ambassador was there to talk about the HeForShe IMPACT 10x10x10 Initiative__
 
-*By [Rosemary P. Wilcox](http://google.com)*
+*By [Rosemary P. Wilcox](https://www.facebook.com/rosemarypwilcox)*
 
 This morning actor Daniel Radcliffe gave a speech at the World Economic Forum in Davos.
 
