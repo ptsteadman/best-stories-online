@@ -12,18 +12,17 @@ image: soultrump1.jpg
 - __Trump has previously criticized John Kerry for "cycling"__
 - __A profusely sweating Trump was overheard criticizing the playlist, which featured pop artist Lana Del Rey__
 
-*By [Madison Travez?](https://www.facebook.com/rosemarypwilcox)*
+*By [Rosemary Wilcox?](https://www.facebook.com/rosemarypwilcox)*
 
-Real Estate mogul Donald Trump defied expectations yet again when he showed up for a grueling 8:10AM SoulCycle session in lower Manhattan.  Trump sweated along with his wife and about 15 fitness-conscious New Yorkers.
+Real Estate mogul Donald Trump defied expectations yet again when he showed up for a grueling 7:30AM SoulCycle session in lower Manhattan.  Trump sweated along with his wife and about 15 fitness-conscious New Yorkers.
 
 "I go there almost every morning to get an inspiring start to my day, and suddenly today Trump was there with his wife," said Allison Selva, a financial analyst at Morgan Stanley.  "I'd recognize that hair and those mannerisms anywhere, you know?"
 
 Trump has a complicated relationship with cycling.  In the early nineties, he sponsored the "Tour de Trump", a bike race down the eastern seaboard that he claimed would soon be more popular than the storied "Tour de France".  Unfortunately for American cyclists, the "Tour de Trump" went bankrupt after just two years.
 
-More recently, Trump has crticized Secretary of State John Kerry for his public cycling obsession.  In June, he was quoted saying: "I will stop Iran from getting nuclear weapons. And we won’t be using a man like Secretary Kerry that has absolutely no concept of negotiation, who’s making a horrible and laughable deal, who’s just being tapped along as they make weapons right now, and then goes into a bicycle race at 72 years old, and falls and breaks his leg. I won’t be doing that. And I promise I will never be in a bicycle race. That I can tell you."
+More recently, Trump has criticized Secretary of State John Kerry for his public cycling obsession.  In June, he was quoted saying: "I will stop Iran from getting nuclear weapons. And we won’t be using a man like Secretary Kerry that has absolutely no concept of negotiation, who’s making a horrible and laughable deal, who’s just being tapped along as they make weapons right now, and then goes into a bicycle race at 72 years old, and falls and breaks his leg. I won’t be doing that. And I promise I will never be in a bicycle race. That I can tell you."
 
-But for some reason, the morning after a trip to Washington where he attached the Iran deal yet again, Trump apparently decided to tag along to for a class at the exclusive cycling studio.
-
+Yet, the morning after a trip to Washington where he attached the Iran deal again, Trump apparently decided participate in a SoulCycle class. SoulCycle differs from the type of cycling for which the Republican presidential candidate criticized Secretary Kerry.  SoulCycle is an indoor cycling workout class where participants ride stationary bikes, yet in cadence with 'the pack'. It is often styled as a spiritual experience. Competition isn't emphasized, but the exercise trend does attract high-performing individuals, especially at the TriBeCa studio where Trump was spotted and nearby Financial District facility nearby the Trump Building at 40 Wall Street. 
 
 "He gave a good effort," Mrs. Selva told Best Stories Online.  "He wasn't going to let anyone see him quit."
 
