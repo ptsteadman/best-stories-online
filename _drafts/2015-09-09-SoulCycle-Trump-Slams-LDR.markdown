@@ -5,7 +5,7 @@ shortTitle: "Trump SoulCycles"
 date:   2015-09-08 22:32:38
 category: celebrity
 tags: [weird, hot]
-image: soultrump1.jpg
+image: soultrump1.png
 ---
 
 - __Candidate takes a break from the campaign trail for $36/hr SoulCycle class__
@@ -22,15 +22,23 @@ famous as Donald Trump," said Allison Selva, a financial
 analyst at Morgan Stanley.  "I'd recognize his hair and
 mannerisms anywhere, you know?"
 
+![Pictured: Donald Trump, "Lana Del Rey" (stage name of Elizabeth Grant), and the SoulCycle studio where Trump was spotted.]({{site.url }}/watermarked/soultrump1.png)
+
 Trump has a complicated relationship with cycling.  In the early nineties, he sponsored the "Tour de Trump", an American bike race that he claimed would soon be more popular than the storied "Tour de France".  Unfortunately for American fans, the "Tour de Trump" went bankrupt after just two years.
+
+{% include ad_block.html %}
 
 More recently, Trump has criticized Secretary of State John Kerry for his public cycling obsession.  In June, Trump stated: "We won't be using a man like Secretary Kerry that has absolutely no concept of negotiation, who's making a horrible and laughable deal [with Iran], who's just being tapped along as they make weapons right now, and then goes into a bicycle race at 72 years old, and falls and breaks his leg. I won't be doing that. And I promise I will never be in a bicycle race. That I can tell you."
 
 ([Source](http://www.businessinsider.com/donald-trump-criticizes-john-kerry-for-cycling-2015-6#ixzz3lIktO1dY))
 
-Accordingly, participating in a SoulCycle class is a surprising move for Trump, that echoes his "flip-flopping" on issues such as abortion and universal health care.  
+![Pictured: Donald Trump at the "Tour DuPont" Awards ceremony.]({{site.url }}/watermarked/soultrump2.jpg)
+
+Accordingly, participating in a SoulCycle class is a surprising move for Trump.  Some critics have already suggested that the decision echoes his "flip-flopping" on issues such as abortion and universal health care.  
 
 SoulCycle is an indoor cycling workout class where participants ride stationary bikes in cadence with 'the pack'.  It is often styled as a spiritual experience.  The expensive classes tend to attract high-performing, wealthy individuals, especially at the Financial District studio near the Trump Build at 40 Wall Street.   
+
+![Pictured: Taiwanese animator's digital rendering of Trump participating in a SoulCycle class (Source: Apple News HK).]({{site.url }}/watermarked/soultrump2.png)
 
 "He gave a good effort," Mrs. Selva told Best Stories Online.  "He wasn't going to let anyone see him quit."
 
@@ -38,10 +46,10 @@ But near the end of the class, Trump's positive outlook changed.  He began to lo
 
 "Who is this, Lana Del Rey?"  Trump reportedly said.  "She's been having a rough year.  She's totally useless."
 
+![Pictured: Donald Trump (left panel, left) and his wife Melania (left panel, right) and Lana Del Rey (right panel).]({{site.url }}/watermarked/soultrump3.png)
+
 According to sources at the scene, Trump then stormed out of the studio before the end of the recommended "cool down" period, his spouse Melania following closely behind.  Some of Trump's fellow cyclists speculated that Melania may have pressured Trump to attend the class.
 
-Lana Del Rey, the stage name of Elizabeth Grant, produces melodic pop music with sexually charged lyrics.  She was not avaialble for comment.  
+Lana Del Rey, the stage name of Elizabeth Grant, produces melodic pop music with sexually charged lyrics.  She was not available for comment on Trump's strong words. 
 
-
-![Pictured: Jared Fogle with his famous pants, and Jared Leto as "The Joker" from Marvel's "Batman".]({{site.url }}/watermarked/subwayjared1.jpg)
- 
+![Pictured: Lana Del Rey (left panel) and Donald Trump (right panel).  Both Del Rey and Trump have been in hot water lately for making remarks critical of feminism.]({{site.url }}/watermarked/soultrump4.png)
