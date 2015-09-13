@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Donald Trump Sweats at FiDi SoulCycle Studio, Slams Lana Del Rey: 'She's Useless'"
-shortTitle: "Trump SoulCycles"
-date:   2015-09-11 13:32:38
-category: celebrity
+title:  "Startup Employees Forced to Crawl in Public During Training Exercise"
+shortTitle: "Employees Crawling"
+date:   2015-09-15 13:32:38
+category: local
 tags: [hot]
-image: soultrump1.png
+image: crawling1.jpg
 ---
 
-- __Candidate takes a break from the campaign trail for $36/hr SoulCycle class__
-- __Trump has previously criticized John Kerry for "cycling"__
-- __Trump was overheard criticizing the playlist, which featured pop artist Lana Del Rey__
+- __Employees of Joliet beauty product startup Antonym Cosmetics forced to crawl in group__
+- __Public crawling activity was supposed to help employees overcome fears and inhibitions__
+- __Concerned onlookers called local law enforcement, resulting in an early end to the exercise__
 
-*By [Rosemary Wilcox](https://www.facebook.com/rosemarypwilcox)*
+*By [Madison Tavarez](https://www.facebook.com/profile.php?id=100010219808834)*
 
 Real estate mogul Donald Trump defied expectations yet again when he showed up for a grueling 7:30AM SoulCycle session on Friday morning.  Trump sweated along with his wife and 15 other fitness-conscious New Yorkers at a studio in lower Manhattan.
 
@@ -22,11 +22,13 @@ famous as Donald Trump," said Allison Selva, a financial
 analyst at Morgan Stanley.  "I'd recognize his hair and
 mannerisms anywhere, you know?"
 
-![Pictured: Donald Trump, "Lana Del Rey" (stage name of Elizabeth Grant), and the SoulCycle studio where Trump was spotted.]({{site.url }}/watermarked/soultrump1.png)
+![Pictured: Donald Trump, "Lana Del Rey" (stage name of Elizabeth Grant), and the SoulCycle studio where Trump was spotted.]({{site.url }}/watermarked/crawling2.jpg)
 
 Trump has a complicated relationship with cycling.  In the early nineties, he sponsored the so-called "Tour de Trump", an American bike race that he claimed would soon be more popular than the storied "Tour de France".  Unfortunately for American fans, the "Tour de Trump" went bankrupt after just two years.
 
-![Pictured: Donald Trump at the "Tour DuPont" Awards ceremony.]({{site.url }}/watermarked/soultrump2.jpg)
+After the incident, a friend of an employee uploaded a photograph of her friend's injured hands to social media.
+
+![Pictured: Donald Trump at the "Tour DuPont" Awards ceremony.]({{site.url }}/watermarked/crawling3.jpg)
 
 
 More recently, Trump has lambasted Secretary of State John Kerry for his public cycling obsession.  In June, Trump stated: "We won't be using a man like Secretary Kerry that has absolutely no concept of negotiation, who's making a horrible and laughable deal [with Iran], who's just being tapped along as they make weapons right now, and then goes into a bicycle race at 72 years old, and falls and breaks his leg.  I won't be doing that.  And I promise I will never be in a bicycle race.  That I can tell you."
