@@ -105,7 +105,65 @@ $(document).ready(function(){
       $(this.selector).children().stop();
     }
   }
-  
+
+
+  /* Meme Popup */
+
+  function PopUp(meme, post){
+    this.displayed = false;
+    if($(window).scrollTop() + $(window).height() > .65*$(document).height()) {
+      this.displayed = true;
+    }
+
+    $("#meme-popup img").attr("src", root + meme);
+    $("#meme-popup a:first").attr("href", root + post.href);
+    $("#meme-popup a:first").html(post.title);
+
+    this.show = function(){
+      if(!this.displayed){
+	this.displayed = true;
+	$.magnificPopup.open({
+	  items: {
+	    src: "#meme-popup",
+	    type: 'inline'
+	  },
+	  removalDelay: 500, //delay removal by X to allow out-animation
+	  callbacks: {
+	    beforeOpen: function() {
+	      this.st.mainClass = "mfp-newspaper";
+	    }
+	  },
+	  midClick: true // allow opening popup on middle mouse click.
+	});
+      }
+    }
+  }
+
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min)) + min;
+  }
+
+
+  /* Cookies */
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires + ";domain=beststoriesonline.com;path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+
   /* Make stuff happen */
 
   var socialButtons = new SocialButtons();
@@ -127,7 +185,37 @@ $(document).ready(function(){
     $(".ticker").mouseleave(function(){
       ticker.start();
     })
+
+    var memes = [
+      "/watermarked/meme_rapper.jpg",
+      "/watermarked/meme_bso.jpg",
+      "/watermarked/meme_selfie.png",
+    ];
+
+    // get hot post
+    var hotPost;
+    for(var i = 0; i < data.length; i++){
+      if($.inArray("hot", data[i].tags) != -1 && data[i].href != window.location.pathname){
+	hotPost = data[i];
+	break;
+      }
+    }
+
+    var popupNotShown = (getCookie("popupShown") == null || getCookie("popupShown") == "");
+    if($("#meme-popup").length == 1  && hotPost && popupNotShown){
+      // only show popup on posts
+      var meme = memes[getRandomInt(0, memes.length)];
+      var popUp = new PopUp(meme, hotPost);
+      $(window).scroll(function() {
+	if($(window).scrollTop() + $(window).height() > .85*$(document).height()) {
+	  popUp.show();
+          setCookie("popupShown","true", 2);
+	}
+      });
+    }
+
   });
+
 
 
 
@@ -175,6 +263,7 @@ $(document).ready(function(){
       }
     });
   }
+
 
 
 });

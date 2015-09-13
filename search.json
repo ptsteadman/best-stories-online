@@ -7,6 +7,7 @@
       "shortTitle"    : "{{ post.shortTitle }}",
       "href"     : "{{ post.url }}",
       "category" : "{{ post.category }}",
+      "tags" :   {{ post.tags | jsonify }},
       "date"     : {
          "day"   : "{{ post.date | date: "%d" }}",
          "month" : "{{ post.date | date: "%B" }}",
