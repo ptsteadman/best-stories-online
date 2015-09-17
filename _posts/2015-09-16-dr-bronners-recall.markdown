@@ -1,28 +1,26 @@
 ---
 layout: post
-title:  "Dr. Bronners Recalls 1.4 Million Units of Pure-Castile Liquid Soap"
-shortTitle: "Trump SoulCycles"
+title:  "Step away from Soapbox: Dr. Bronner's RECALLS 1.4 Million Units of Poisonous Pure-Castile Liquid Soap"
+shortTitle: "Dr. Bronner's Recall"
 date:   2015-09-11 13:32:38
 category: celebrity
 tags: [hot]
 image: soultrump1.png
 ---
 
-- __Tainted tocopherol: ingredient that provides vitamin E flunks FDA screening __
-- __Trump has previously criticized John Kerry for "cycling"__
-- __Trump was overheard criticizing the playlist, which featured pop artist Lana Del Rey__
+- __Tainted tocopherol: ingredient that provides vitamin E flunks FDA screening__
+- __Emanuel H. Bronner is not an actual doctor__
+- __1,420,000 bottles of Dr. Bronner's Peppermint Pure-Castile Liquid Soap subject to recall__
 
 *By [Rosemary Wilcox](https://www.facebook.com/rosemarypwilcox)*
 
-Real estate mogul Donald Trump defied expectations yet again when he showed up for a grueling 7:30AM SoulCycle session on Friday morning.  Trump sweated along with his wife and 15 other fitness-conscious New Yorkers at a studio in lower Manhattan.
+Dr. Bronner's and his "Moral ABC" receive an "F" from FDA as tocopherol in a large batch of the flagship Dr. Bronner's Peppermint Pure-Castile Liquid Soap product is found to be derived from genetically modified, lab-grown plants. The affected products contain tocopherol that was extracted from soy grown in Canadian laboratories. 
 
-"I go there almost every morning to get an inspiring start
-to my day, and I've seen a few celebs, but never anyone as
-famous as Donald Trump," said Allison Selva, a financial
-analyst at Morgan Stanley.  "I'd recognize his hair and
-mannerisms anywhere, you know?"
+Emanuel Bronner is the founder of the company and died in 1997.  He actually is not a doctor, but a German-born soapmaker bravely escaping Nazi Germany by emigrating to the United States in 1929. The packaging on Dr. Bronner's products features a long rant printed in tiny text elaborating a philosophy Bronner calls "All-One-God-Faith" that erratically blends many traditions. In 1947, while promoting his "Moral ABC" at a university in Chicago, Bronner was detained and sent to a mental hospital in Elgin, Illinois, from which he escaped after shock treatments. Until Bonner's death, the soap was produced in a small factory without any mechanical machinery. 
 
-![Pictured: Donald Trump, "Lana Del Rey" (stage name of Elizabeth Grant), and the SoulCycle studio where Trump was spotted.]({{site.url }}/watermarked/soultrump1.png)
+His family has since continued the business and claims to maintains the same values as the late Bronner. Yet, the manufacturing and ingredients sourcing has undergone transformation since Bonner's death.  Notably, not all of the ingredients are from the United States.  
+
+![Pictured: Bronner's original manufacturing facility (left pannel), Emanuel H. Bronner (right panel) ]({{site.url }}/watermarked/bonners2.png)
 
 Trump has a complicated relationship with cycling.  In the early nineties, he sponsored the so-called "Tour de Trump", an American bike race that he claimed would soon be more popular than the storied "Tour de France".  Unfortunately for American fans, the "Tour de Trump" went bankrupt after just two years.
 
