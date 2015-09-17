@@ -3,7 +3,7 @@ layout: post
 title:  "Startup Employees Forced to Crawl in Public During Training Exercise"
 shortTitle: "Employees Crawling"
 date:   2015-09-14 13:32:38
-category: local
+category: business
 tags: [hot, wrong]
 image: crawling1.jpg
 ---

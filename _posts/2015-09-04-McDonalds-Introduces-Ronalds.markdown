@@ -3,7 +3,7 @@ layout: post
 title:  "McDonald's to Launch New Casual Dining Chain 'Ron's' in Six Cities"
 shortTitle: "McDonald's Fast Casual"
 date:   2015-09-04 00:32:38
-category: local
+category: business
 tags: [hot]
 image: ronalds1.png
 excerpt: "We're lovin' it -- fast food giant sets to toe into new market with casual dining concept 'Ron's'"
