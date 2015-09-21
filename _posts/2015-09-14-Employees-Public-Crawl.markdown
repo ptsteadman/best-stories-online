@@ -25,7 +25,7 @@ the beginning of the activity.]({{site.url }}/watermarked/crawling2.jpg)
 
 A spokesperson for KMS cosmetics stated over the phone that the activity was a
 voluntary "challenge exercise" aimed at reducing self-consciousness and
-overcoming artificial limitations.  
+overcoming artificial limitations.
 
 Law enforcement officers who responded to the call helped treat minor
 abrasions to the hands and knees of some of the crawling employees.
@@ -41,14 +41,14 @@ that despite the value of many of the team building events, the crawling exercis
 {% include ad_block.html %}
 
 No charges have been pressed against the company, but police filed a written request 
-requiring that KMS Cosmetics not repeat the exercising, citing the traffic hazard posed by the
+requiring that KMS Cosmetics not repeat the exercise, citing the traffic hazard posed by the
 crawling employees and the potential for injury.  The company has been harshly
 criticized on social media for the possibly abusive training activity, but has
 not yet made an official statement. 
 
 ![Pictured: The sidewalk where KMS cosmetics employees were spotted. ]({{site.url }}/watermarked/crawling4.png)
 
-According the company website, [KMS Cosmetics](http://www.antonymcosmetics.com/, a brand of Antonym Beauty
+According the company website, [KMS Cosmetics](http://www.antonymcosmetics.com/), a brand of Antonym Beauty
 Products, is building an online platform to sell high-quality "EcoLuxe" makeup
 products.  The company was founded in 2012 and was recently featured in [Smart
 Growth America's](http://www.smartgrowthamerica.org/) list of the top 25 startups in Evanston.  
