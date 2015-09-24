@@ -1,7 +1,9 @@
 _site/
 .sass-cache/
 *.swp
+*.swo
 .DS_Store
 *.DS_Store
 *~
 watermarked/*
+s3_website.yml
