@@ -10,7 +10,7 @@ __Contact Information:__
 
 - Email: *contact@beststoriesonline.com*
 - Phone: *716-472-4484*
-- Address: *889 Broadway Suite 3A, New York, NY 10012*
+- Address: *889 Broadway Suite 3A, Brooklyn, NY 11206*
 
 __Advertising on Best Stories Online:__
 

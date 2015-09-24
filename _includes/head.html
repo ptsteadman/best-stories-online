@@ -19,7 +19,7 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-  <title>{% if page.title %}BSO: {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %} {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.title %}
   <meta property="og:url"                content="{{ page.url | prepend: site.url  }} " />
