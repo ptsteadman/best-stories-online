@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weird Facebook, Normie Facebook, and the Scalability of Internet Subcultures"
-shortTitle: "Weird Facebook"
+title:  Weird Facebook, Normie Facebook, and the Scalability of Internet Subcultures
+shortTitle: Weird Facebook
 date:   2015-09-24 13:32:38
 category: perspectives
 tags: []
@@ -14,12 +14,15 @@ image: weirdfb1.png
 *By [Ye Siyuan](https://www.facebook.com/rosemarypwilcox)*
 
 Facebook helps you connect and share with the people in your life.
+Testing this out.
 
-![]({{site.url }}/watermarked/weirdfb1.png)
+![]({{site.url }}/watermarked/weirdfb1.jpg)
 
 ### Internet Subculture Diaspora
 
 The past year has been rough for Internet subcultures.  Alt Lit finally fragmented into , Net Art continued its downward slide into the corporate art world, Hipster Runoff quietly died (for real this time), vaporwave stalled, Gamergate happened, Reddit suffered a series of embarassing scandals, and the founder of 4chan threw in the towel.
+
+>The past year has been rough for Internet subcultures.
 
 All of these subcultures are (or were) rooted in specific websites and brands: popserial.net, dump.fm, hipsterunoff, ello.co, rhizome.org, /b, Macintosh Plus, Feminist Frequency, Yung Lean.   The failure to create scalable and alternative institutions has meant that a lot of young people trying to build an identity are in retreat, along with the weird friends they made elsewhere on the Internet.   Recent trendpieces from [The Daily Dot]() and other sources have speculated that a lot of the Internet's weirdness is moving to generic mash of Facebook, where it exists in an uneasy limbo with the day-to-day posts of "normal" facebook users.
 
@@ -33,6 +36,8 @@ reflects "real life" connections, connections with a quantifiable value, social 
 ### Real Life and "Normies"
 
 For many, Facebook has become the social network where "real life" happens.  It's where people announce their new achievements, relationships, marriages, and children.  But what if you don't have any of these things?  What if you don't have a "real life"?
+
+>What if you don't have a "real life"?
 
 "I guess I got into 'weird facebook' after I failed out of college and was living with my parents," said Lucas, the owner of a page dedicated to music memes.  "No one called it [weird facebook] at the time obviously, I had no idea what I was doing.  I added some  weird musicians and writers that I was into.   Eventually I added so many of these people that facebook started suggesting more of them, and I'd get a bunch of requests."
 

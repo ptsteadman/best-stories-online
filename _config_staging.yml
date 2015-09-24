@@ -1,0 +1,12 @@
+# Site settings
+title: BEST STORIES ONLINE
+email: contact@beststoriesonline.com
+description: > # this means to ignore newlines until "baseurl:"
+   Shocking news, stories and videos. Whether currently occurring, interesting,
+   controversial, abnormal, thought-provoking or satirical, we only wish to
+   provide the best stories online.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://staging.beststoriesonline.com.s3-website-us-west-2.amazonaws.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
