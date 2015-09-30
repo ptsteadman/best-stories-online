@@ -1,0 +1,54 @@
+---
+layout: post
+title:  Obama Invites Pizza Rat to White House
+shortTitle: Pizza Rat
+date:   2015-09-24
+category: celebrity
+tags: [weird, wrong, wtf]
+image: pizzarat.jpg
+---
+- __President Obama invites famous rat to bring prized slice of pizza to Washington__
+- __Pizza Rat has not been seen since his sudden rise to fame, current whereabouts unknown__
+- __Republican frontrunner Donald Trump criticizes POTUS’ move, calls Pizza Rat a “quitter” with “no class”__
+
+*By [Madison Tavarez](https://www.facebook.com/madisonwtavarez)*
+
+Earlier this week, the world was introduced to [Pizza Rat](https://www.youtube.com/watch?v=UPXUG8q4jKU). For those of you who have been living under a ROCK, Pizza Rat is a very viral rat who was filmed carrying a big slice down subway steps. Eventually he gave up, but that hasn’t prevented President Obama from inviting him to bring his prized possession all the way to the White House!
+
+![]({{site.url }}/watermarked/pizzarat.jpg)
+
+Yes, the President personally tweeted an invitation to the celebrated rodent (cute!) 
+
+![Obama’s tweet to the Pizza Rat.]({{site.url }}/watermarked/tweet.jpg)
+
+Cute! Not everyone is pleased, however. This includes leading Republican presidential candidate Donald Trump, who said earlier:
+
+“The President, he thinks this is great, you know, he thinks ‘oh, ok, I’ll invite this popular rat to Washington with his slice of pizza—well, I get that it’s not small compared to the rat, but you know—and he’s [Obama] all like, ‘this is great.’”
+
+![Donald Trump is none too pleased with Pizza Rat.]({{site.url }}/watermarked/pizzarat2.jpg)
+
+Trump had harsh words for Pizza Rat himself that attack the popular narrative of bravery that launched it to fame.
+
+{% include ad_block_2.html %}
+
+“Pizza Rat, you know, he’s not some hero. Who is he? He’s a quitter. Sure, he dragged the slice for a bit but at the end of the day, he gave up. And if you think I’m wrong, just ask yourself, where is this guy? He’s really nowhere right now.”
+
+![Pizza Rat defeated, unable to carry the slice any further.]({{site.url }}/watermarked/pizzarat4.jpg)
+
+Trump’s supporters were quick to acknowledge Trump’s point. Not only has Pizza Rat yet to accept President Obama’s invitation—Pizza Rat has not been heard from since its rise to prominence.
+
+White House press secretary Joshua Earnest spoke on this matter at a press conference earlier today.
+
+{% include ad_block_2.html %}
+
+“I think Pizza Rat’s story resonated so deeply with the public for a number of reasons. He’s a hard worker. He’s determined. He’s a rat who lives in a New York City subway station and is intrigued by interesting new garbage. He wants that garbage and he makes it his business to acquire it. The President is intrigued by this. He wants to see more.”
+
+Earnest declined to comment on conspiracy theories circulating on Internet forums proposing that the Pizza Rat phenomenon is a hoax. 
+
+![The somewhat-burnt beast of burden for the beleaguered rat.]({{site.url }}/watermarked/pizzarat1.jpg)
+
+A hoax?! Give us a break. That pizza looks as real as apple pie.
+
+![]({{site.url }}/watermarked/pizzarat3.jpg)
+
+Have a safe weekend, everybody!
