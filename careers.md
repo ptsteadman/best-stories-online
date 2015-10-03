@@ -17,7 +17,7 @@ partners, spouses, and families. Outside of New York, we cover the great
 majority of coverage for all groups.
 
 Life insurance and short/long term disability insurance is 100% covered by
-Gawker. Employees can choose to purchase dental, vision or supplemental
+Select Star. Employees can choose to purchase dental, vision or supplemental
 life/disability insurance.
 
 __Time off when you need it — and a sabbatical after four years.__
