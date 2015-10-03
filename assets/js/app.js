@@ -13,8 +13,8 @@ $(document).ready(function(){
   /* Helper Functions */
 
   function shuffleArray(a){
-    for(var i = 0; i < a.length; i++){
-      var randomIndex = Math.floor(Math.random() * a.length);
+    for(var i = a.length - 1; i > 0; i--){
+      var randomIndex = Math.floor(Math.random() * (i + 1));
       var tmp = a[randomIndex];
       a[randomIndex] = a[i];
       a[i] = tmp;

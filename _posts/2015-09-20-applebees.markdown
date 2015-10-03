@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Florida Man Attempts to Burn Down an Applebee's After Refund Denial"
-shortTitle: “Applebee’s”
+shortTitle: Applebee’s Arson
 date:   2015-09-20 09:32:38
 category: local
 tags: [weird, wrong]

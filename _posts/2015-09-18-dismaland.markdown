@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Billy Corgan Visits Banksy’s ‘Dismaland’, Has Bad Time"
-shortTitle: “Corgan Dismaland”
+shortTitle: Corgan Dismaland
 date:   2015-09-20 02:29:38
 category: celebrity
 tags: [weird, wrong]
