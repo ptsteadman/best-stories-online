@@ -90,6 +90,3 @@ DEPENDENCIES
   jekyll-minimagick
   mini_magick
   s3_website
-
-BUNDLED WITH
-   1.10.6
