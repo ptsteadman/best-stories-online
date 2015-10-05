@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Young Woman Attempts Suicide, Leaves Note Written Entirely in EMOJI
+title:  Young Woman Attempts Suicide, Leaves Note Written Entirely in Emoji
 shortTitle: Emoji Suicide Note
 date:   2015-10-04
 category: local
 tags: [weird, wrong]
-image: emoji.png
+image: emoji.jpg
 ---
 - __High-performing finance worker crumbled under stress and depression__
 - __The woman attempted suicide by phenobarbital overdose__

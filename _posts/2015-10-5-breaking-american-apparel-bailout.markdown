@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  BREAKING American Apparel Offered Bailout from City of Los Angeles
+title:  "BREAKING: American Apparel Offered Bailout from City of Los Angeles"
 shortTitle: American Apparel Bankruptcy
 date:   2015-10-05
 category: local
 tags: [weird, wrong]
 image: american_apparel.png
 ---
-- __Controversial Los Angeles-based clothing company American Apparel filed for Chapter 11 bankruptcy protection on Monday.__
-- __Los Angeles puts forward offer to bailout embattled company.__
-- __Los Angeles Mayor Eric Garcetti says city "cannot afford to lose the manufacturing jobs."__
+- __Controversial Los Angeles-based clothing company American Apparel filed for Chapter 11 bankruptcy protection on Monday__
+- __Los Angeles puts forward offer to bailout embattled company__
+- __Los Angeles Mayor Eric Garcetti says city "cannot afford to lose the manufacturing jobs"__
 
 
 *By [Jonathan Denton](https://www.facebook.com/profile.php?id=100009311557342)*

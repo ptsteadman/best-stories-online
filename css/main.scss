@@ -104,7 +104,7 @@ $on-laptop:        800px;
   }
 
   .sharing-row h2 {
-     height: 90px;
+     height: 65px;
      overflow: hidden;
    }
 }
@@ -112,6 +112,5 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
         "syntax-highlighting"
 ;
