@@ -3,10 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  <h2>BREAKING</h2>
+  <h2 class="mystory">MyStory</h2>
   <ul class="post-list">
     {% for post in site.posts %}
+      {% if post.category contains "MyStory" %}
       {% include post_li.html %}
+      {% endif %}
     {% endfor %}
   </ul>
 
