@@ -12,6 +12,9 @@ layout: default
       {% if forloop.index == 3 or forloop.index == 6 %}
       </div>
       {% endif %}
+      {% if forloop.index == 3 %}
+      {% include taboola_header.html %}
+      {% endif %}
     {% endfor %}
   </ul>
 

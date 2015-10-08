@@ -39,7 +39,7 @@
 	    </ul>
 	  {% endif %}
 
-	  <script src="https://s3-us-west-2.amazonaws.com/kaboodle/kaboodle.js" data-num-rows="6" type="text/javascript"></script>
+	  {% include taboola_right_rail.html %}
 	</div>
         <div class="main-content">
         {{ content }}
@@ -76,6 +76,10 @@
 	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6s24&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6s24&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
   </noscript>
+  <script type="text/javascript">
+    window._taboola = window._taboola || [];
+      _taboola.push({flush: true});
+  </script>
 
   </body>
 
