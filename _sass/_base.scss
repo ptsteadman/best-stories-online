@@ -120,12 +120,13 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
+    color: #336;
+    border-left: 2px solid #333;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
     font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    letter-spacing: -1.5px;
+    font-weight: bold;
 
     > :last-child {
         margin-bottom: 0;
@@ -944,4 +945,18 @@ article p, article li {
   font-style: italic;
   font-weight: bold;
 
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }

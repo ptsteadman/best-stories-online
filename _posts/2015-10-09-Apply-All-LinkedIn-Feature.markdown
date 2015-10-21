@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "LinkedIn Adds New Feature: 'Apply All' after 'Add Connections' Lawsuit Settlement"
+title:  "LinkedIn Launches Premium 'Apply All' Feature"
 shortTitle: New LinkedIn Feature
-date:   2015-10-09
+date:   2015-10-9
 category: wrong
 tags: [weird, wrong]
 image: linkedin1.png
