@@ -76,7 +76,7 @@ long as it's done well," said Antalek.  "When we see a sexy brand like Audi or
 Chanel on something unexpected, we're more likely to be like 'lol' or 'cool',
 than 'wow, that's lame'."
 
-{% include ad_block.html %}
+{% include ad_block.html %} 
 
 Antalek said that advertising executives usually find him through traditional
 dealer networks, and often reach out simply due to curiosity.  
