@@ -84,23 +84,48 @@ more likely than older Millennials to believe that men should be the
 breadwinners, to believe that they're the "strong silent type", and less likely
 to be okay with sharing vulnerabilities.
 
-The idea of the Young Millennial as goal-oriented and pre-professional is far
-from universal, however.  Another prominent face is the Young Millennial "social
-justice warrior".  
-
-
-Young Millennials are [more likely to support highly
-polarized](http://www.marketwatch.com/story/why-millennials-are-supporting-donald-trump-and-bernie-sanders-2015-11-09)
-candidates like Bernie Sanders and Donald Trump, over more moderate candidates
-like Hillary Clinton and Jeb Bush.  
-
+However, Young Millennial males are not complete reactionaries.  According to
+the study, "young millennial males find it easier to talk about subjects like
+relationships, health and insecurities that not long ago were considered too
+private or 'unmanly' to share with guy friends," when compared to older
+Millennial males.  
 
 Critiques of older Millennials are often gender-specific.  Terms like like 'bro'
-and 'manchild' have emerged to describe underachieving Millennial men.  These
-terms target the supposed inability of Millennial men to uphold American
+and 'manchild' emerged to describe underachieving older Millennial men.
+These terms target the supposed inability of Millennial men to uphold American
 standards of masculinity and independence.  More recently, new media
 professionals like Gaby Dunn (b. 1988) and Alan Henson (b.  1988) have
 popularized words like "fuckboy" and "softboy", which are focused on men who use
-privilege and manipulation to extract sexual Millennial male "gold diggers".
+privilege and manipulation to extract sexual favors.  
 
-Something about Melissa.
+Older Millennial women are often the losers in the intersection of Young
+Millennial and older Millennial sexual politics.  
+
+>### Terms like 'bro' and 'manchild'  emerged in the early 2000's to describe underachieving older Millennial men.
+
+However, the idea of the Young Millennial as goal-oriented and pre-professional
+is far from universal, however.  Another prominent face of the Young Millennial
+is the "social justice warrior".  For Young Millennials, social networking sites
+like Tumblr and Facebook have become the primary site for a new political
+discourse.  Many writers in popular press have expressed their discomfort with
+the praxis of Young Millennials, who have pushed for the introduction of
+concepts like "safe spaces", "trigger warnings" and other social justice
+concerns into the fabric of institutions of higher education.
+
+Other Young Millennials are simply suffering from the fallout of the financial
+crisis.   A [Zogby Analytics poll posted on
+Forbes.com](http://www.forbes.com/sites/johnzogby/2014/06/16/fascinating-demographic-differences-between-older-and-younger-millennials/)
+characterizes Young Millennials as "economic victims", showing that Young
+Millennials are almost 10% more likely to fear losing their job, and are 8% more
+likely to have gone without food for 24 hours due to lack of money.  In
+addition, Young Millennials are more likely to be non-religious.  Perhaps, the
+precarity Young Millennials have experienced is the reason they are polarized,
+and [more likely to support highly
+polarized](http://www.marketwatch.com/story/why-millennials-are-supporting-donald-trump-and-bernie-sanders-2015-11-09)
+candidates like Bernie Sanders and Donald Trump over more moderate candidates
+like Hillary Clinton and Jeb Bush.  Young Millennials on both sides of the
+political spectrum are able to see through crafted media campaigns, and are only
+responsive to truly radical messages.
+
+Something about Melissa.  Mellisa and her 'bae' certainly seem prepared to win
+at life.
