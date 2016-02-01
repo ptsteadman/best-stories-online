@@ -10,3 +10,6 @@ url: "http://staging.beststoriesonline.com.s3-website-us-west-2.amazonaws.com" #
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]

@@ -63,16 +63,20 @@ img {
 /**
  * Figures
  */
-figure {
+
+.post-content img {
   display: none;
 }
 
 figure > img {
-    display: block;
+  display: block !important;
 }
 
-figcaption {
+.captionjs  figcaption {
     font-size: $small-font-size;
+    margin-top: 14px !important;
+    margin-bottom: 12px !important;
+    line-height: 1.5 !important;
 }
 
 

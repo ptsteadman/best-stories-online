@@ -26,7 +26,7 @@ David Ebersman was pleased to announce that Facebook "remained close to fully
 penetrated among teens in the U.S." Ebersman was replying to an concerned
 investor worrying that Facebook was becoming "uncool" and losing traction with
 younger users.  This comment seems to highlight the popular notion that Facebook
-has become the Oldsmobile of social networks.
+has become next MySpace.
 
 !["What To Do If Your Child Blocks You on Facebook", from The Independent]({{site.image_host }}/watermarked/weirdfb2.jpg)
 

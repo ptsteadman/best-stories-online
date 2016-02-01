@@ -11,3 +11,7 @@ image_host: "https://raw.githubusercontent.com/ptsteadman/best-stories-online/ma
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
+
