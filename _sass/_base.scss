@@ -63,6 +63,10 @@ img {
 /**
  * Figures
  */
+figure {
+  display: none;
+}
+
 figure > img {
     display: block;
 }
