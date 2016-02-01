@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "BREAKING: Kevin Campbell, Drake Forehead Tattoo Artist, Found Dead"
+title:  "Drake Forehead Tattoo Artist Found Dead"
 shortTitle: Drake Forehead Tattoo Artist Found Dead
 date:   2015-10-18
 category: local
 tags: [weird, wrong]
 image: draketattoo1.png
+published: false
 ---
 - __Kevin Campbell, Los Angeles-based tattoo artist, found dead in Echo Park__
 - __Cause of death is completely unknown at this point__

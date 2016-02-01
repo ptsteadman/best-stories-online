@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BREAKING: American Apparel Offered Bailout from City of Los Angeles"
+title:  "American Apparel Offered Bailout from City of Los Angeles"
 shortTitle: American Apparel Bankruptcy
 date:   2015-10-05
 category: local
