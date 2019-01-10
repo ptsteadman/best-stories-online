@@ -1,5 +1,16 @@
 # Best Stories Online
 
+### Dev
+
+```
+gem install bundler jekyll
+bundle install
+bundle exec jekyll serve
+```
+
+
+### Strategy
+
 Verticals:
 
 1. "Classic" fake news
@@ -8,8 +19,6 @@ Verticals:
 4. Perspectives: thought articles
 
 Verticals may be separated by domain.
-
-### Strategy
 
 - use meme "shitposting" to build follower base for facebook page, instagram account, twitter account
 - pay attention to fake news illuminati via RSS feed, post content at similar rate
